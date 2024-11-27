@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <img src=" \tata industries.jpg"height="400" width="800" usemap="#imagemap">
+    <map name="imagemap">
+        <area shape="circle coord" href="https//www.google.com" alt="google">
+        <area shape="poly" coords="321,155,375,288,268245" href="\SOP 1.ADVANCE WEB DESIGN\SOP5\index1.html"
+            alt="audio file"> 
+</map>
+</body>
+
+</html>
