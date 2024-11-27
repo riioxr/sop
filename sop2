@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tourist place</title>
+    <style>
+    section{
+        background-color: pink;
+        width: 50%;
+        height: 50%;
+        float: right;
+    }
+    aside{
+        background-color: yellow;
+        width: 50%;
+        height: 50%;
+        float: left;
+    }
+    ol{
+        font-style: italic;
+        font-size: 15px;
+    }
+    ul{
+        font-weight: bold;
+        font-size: 20px;
+    }
+    </style>
+</head>
+<body>
+   <header style="background: skyblue;" color="red" height="100px">
+    <h1 align="center">Tourist Place</h1>
+   </header>
+   <aside>
+    <h3>City</h3>
+    <ol>
+        <li>Pune</li>
+        <li>Banglore</li>
+       <li>Hyderbad</li>
+       <li>Delhi</li>
+    </ol>
+   </aside>
+   <section>
+    <h3>Tourist place in pune</h3>
+    <ol>
+        <li>Shaniwarda</li>
+        <li>kelker muesum</li>
+       <li>Sindh fort</li>
+       <li>pune</li>
+    </ol>
+</sectio>
+</body>
+</html>
